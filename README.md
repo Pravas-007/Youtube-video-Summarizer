@@ -1,6 +1,5 @@
-YouTube Video Summarizer (Python + Hugging Face)
-Python project to fetch YouTube transcripts and generate AI-based summaries
-
+**YouTube Video Summarizer (Python + Hugging Face)**
+Python project to fetch YouTube transcripts and generate AI-based summaries.
 This Python app fetches the transcript from any YouTube video and summarizes it using a transformer-based model (`facebook/bart-large-cnn`) from Hugging Face.
 
 **Features:-**
