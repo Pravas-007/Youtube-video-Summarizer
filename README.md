@@ -28,8 +28,7 @@ Install the required packages
 **How to use:-**
 Run the script: python summarizer.py
 
-Example:-
-URL: https://www.youtube.com/watch?v=UwsrzCVZAb8
+Example URL: https://www.youtube.com/watch?v=UwsrzCVZAb8
 
 **Disclaimer:-**
 This is a beginner-level AI project built for learning purposes.
